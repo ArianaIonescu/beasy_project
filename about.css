@@ -1,0 +1,27 @@
+.hero-text{
+  text-align: center;
+  font-family: fantasy;
+  padding-top: 20px;
+}
+
+.beautybanner{
+  margin: 0px auto; center;
+  width:1100px;
+  height:500px;
+  text-align:center;
+}
+
+
+
+
+
+
+
+
+footer{
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  background-color: black;
+  padding: 40px 0px;
+}
